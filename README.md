@@ -2,7 +2,11 @@
 
 Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 
-#### Obsidian安装和使用
+#### 与我联系 Contact with me
+
+公众号、知乎、小红书：科叔AI进化记
+
+#### 一、Obsidian安装和使用
 
 1. Obsidian下载地址 [https://obsidian.md/](https://obsidian.md/)
 2. Obsidian中文参考文档 [https://obsidian.md/zh/help/](https://obsidian.md/zh/help/)
@@ -14,7 +18,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 8. Obsidian插件开发文档 [https://docs.obsidian.md/](https://docs.obsidian.md/)
 
 
-Obsidian插件推荐
+二、Obsidian插件推荐
 
 1. obsidian-git [https://github.com/Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)
 2. claudian [https://github.com/YishenTu/claudian](https://github.com/YishenTu/claudian)
@@ -23,12 +27,12 @@ Obsidian插件推荐
 5. obsidian-terminal [https://github.com/polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal)
 
 
-#### 个人原创教程
+#### 三、个人原创教程
 
 1.  [Obsidian+AI打造人生管理系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzODkwODYwMA==&action=getalbum&album_id=4355166178646786051#wechat_redirect)
 2.  [n8n工作流](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzODkwODYwMA==&action=getalbum&album_id=4120306249294331915#wechat_redirect)
 
-#### Claude Code 相关
+#### 四、Claude Code 相关
 
 1. cc-switch GitHub [https://github.com/farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 2. Claude Code 官方文档 [https://docs.anthropic.com/zh-CN/docs/claude-code/overview](https://docs.anthropic.com/zh-CN/docs/claude-code/overview)
@@ -42,7 +46,7 @@ Obsidian插件推荐
 10. Community Skills 仓库 [https://github.com/heidstra/awesome-claude-code-skills](https://github.com/heidstra/awesome-claude-code-skills)
 
 
-#### 2026年5月Coding Plan推荐
+#### 五、2026年5月Coding Plan推荐
 
 | 平台 / 套餐            | 月费                               | 额度（每5小时）                                    | 可接入模型                                                                                        | 适合场景             | 订阅链接                                                      |
 | ------------------ | -------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------- |
@@ -52,13 +56,9 @@ Obsidian插件推荐
 | Kimi Andante（月之暗面） | ¥49（Moderato ¥99 / Allegro ¥699） | ~300–1,200 请求 / 每5小时1M tokens / 每周4M tokens | Kimi K2.6（主力）                                                                                | 长代码库、超长上下文任务     | [订阅](https://www.kimi.com/membership/pricing)             |
 | MiniMax Starter    | ¥29（Plus ¥49 / Max ¥119 / 高速版另计） | 600 请求 / Plus 1,500 / Max 4,500 / 每周上限=10×  | MiniMax M2.7（含高速推理版）                                                                         | 预算最紧、M2.7 模型需求   | [订阅](https://platform.minimaxi.com/docs/token-plan/intro) |
 
-
-
 综合最推荐，火山引擎 Coding Plan，也是我目前再用的
 
 
 
-#### 与我联系 Contact with me
 
-公众号、知乎、小红书：科叔AI进化记
 
