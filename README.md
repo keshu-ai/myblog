@@ -18,7 +18,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 8. Obsidian插件开发文档 [https://docs.obsidian.md/](https://docs.obsidian.md/)
 
 
-二、Obsidian插件推荐
+#### 二、Obsidian插件推荐
 
 1. obsidian-git [https://github.com/Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)
 2. claudian [https://github.com/YishenTu/claudian](https://github.com/YishenTu/claudian)
