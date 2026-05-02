@@ -52,11 +52,11 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 | ------------------ | -------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------- |
 | 火山引擎 Lite（字节跳动）    | ¥40（Pro ¥200）                    | ~1,200 请求 / 每周9,000 / 每月18,000              | Doubao-Seed-2.0-Code/Pro/Lite、Kimi-K2.6/K2.5、GLM-5.1、GLM-4.7、MiniMax-M2.7/M2.5、DeepSeek-v3.2 | 想多模型切换、预算有限入门    | [订阅](https://www.volcengine.com/activity/codingplan)      |
 | 阿里百炼 Pro（阿里云）      | ¥200（Lite 已停售）                   | ~6,000 请求 / 每周45,000 / 每月90,000             | Qwen3.6-Plus（含图片理解）、Kimi-K2.5、GLM-5、MiniMax-M2.5、Qwen3-Coder 系列、GLM-4.7                      | Qwen 用户、大量请求重度使用 | [订阅](https://help.aliyun.com/zh/model-studio/coding-plan) |
-| 智谱 GLM Lite（智谱 AI） | ¥49（Pro ¥149 / Max ¥469）         | ~80 prompts / 每周~400（1 prompt ≈ 15-20次调用）   | GLM-5.1（对标 Claude Opus）、GLM-5-Turbo、GLM-4.7、GLM-4.5-Air                                      | GLM 专属需求、轻度使用    | [订阅](https://docs.bigmodel.cn/cn/coding-plan/overview)    |
+| 智谱 GLM Lite（智谱 AI） | Lite  ¥49（Pro ¥149 / Max ¥469）   | Lite 每周 400（1 prompt ≈ 15-20次调用）            | GLM-5.1（对标 Claude Opus）、GLM-5-Turbo、GLM-4.7、GLM-4.5-Air                                      | GLM 专属需求、轻度使用    | [订阅](https://docs.bigmodel.cn/cn/coding-plan/overview)    |
 | Kimi Andante（月之暗面） | ¥49（Moderato ¥99 / Allegro ¥699） | ~300–1,200 请求 / 每5小时1M tokens / 每周4M tokens | Kimi K2.6（主力）                                                                                | 长代码库、超长上下文任务     | [订阅](https://www.kimi.com/membership/pricing)             |
 | MiniMax Starter    | ¥29（Plus ¥49 / Max ¥119 / 高速版另计） | 600 请求 / Plus 1,500 / Max 4,500 / 每周上限=10×  | MiniMax M2.7（含高速推理版）                                                                         | 预算最紧、M2.7 模型需求   | [订阅](https://platform.minimaxi.com/docs/token-plan/intro) |
 
-综合最推荐，火山引擎 Coding Plan，也是我目前再用的
+综合最推荐，火山引擎 Coding Plan，也是我目前在用的
 
 
 
