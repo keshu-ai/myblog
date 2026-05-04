@@ -57,7 +57,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 | 小米 MiMo（小米）        | Lite ¥39 / Standard ¥99 / Pro ¥329 / Max ¥659 | Lite 6,000万 / Standard 2亿 / Pro 更高额度 / Max 16亿 Credits | Lite/Standard：MiMo 系列；Pro/Max：MiMo-V2-Pro/Omni/TTS、OpenCode、Claude Code 兼容、新模型优先体验           | 按需选择，入门到无限制      | [订阅](https://platform.xiaomimimo.com/token-plan)          |
 | MiniMax Starter    | ¥29（Plus ¥49 / Max ¥119 / 高速版另计）              | 600 请求 / Plus 1,500 / Max 4,500 / 每周上限=10×             | MiniMax M2.7（含高速推理版）                                                                         | 预算最紧、M2.7 模型需求   | [订阅](https://platform.minimaxi.com/docs/token-plan/intro) |
 
-综合最推荐，火山引擎 Coding Plan，也是我目前在用的
+目前只用过火山引擎 Coding Plan，GML5.1和MiniMax 2.7混合用
 
 
 
