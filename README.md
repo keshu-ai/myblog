@@ -45,7 +45,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 9. Anthropic 官方 Skills [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
 10. Community Skills 仓库 [https://github.com/heidstra/awesome-claude-code-skills](https://github.com/heidstra/awesome-claude-code-skills)
 
-五、Codex相关
+#### 五、Codex相关
 1. 官方文档：https://developers.openai.com/codex
 2. Cookbook：https://cookbook.openai.com/topic/codex
 3. Agents.md 标准：https://agents.md
