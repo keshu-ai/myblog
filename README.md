@@ -45,14 +45,20 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 9. Anthropic 官方 Skills [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
 10. Community Skills 仓库 [https://github.com/heidstra/awesome-claude-code-skills](https://github.com/heidstra/awesome-claude-code-skills)
 
+五、Codex相关
+1. 官方文档：https://developers.openai.com/codex
+2. Cookbook：https://cookbook.openai.com/topic/codex
+3. Agents.md 标准：https://agents.md
+4. 配置参考：https://github.com/openai/codex/blob/main/docs/config.md
+5. Changelog：https://developers.openai.com/codex/changelog
 
-#### 五、2026年6月Coding Plan推荐
+#### 六、2026年6月Coding Plan推荐
 
-| 平台 / 套餐               | 月费                                          | 额度（每5小时）                                               | 可接入模型                                                                                          | 适合场景                    | 订阅链接                                                    |
-| ------------------------- | --------------------------------------------- |:------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------- |
-| 火山引擎 Lite（字节跳动） | ¥40（Pro ¥200）                               | ~1,200 请求 / 每周9,000 / 每月18,000                          | Doubao-Seed-2.0-Code/Pro/Lite、Kimi-K2.6/K2.5、GLM-5.1、GLM-4.7、MiniMax-M2.7/M2.5、DeepSeek-v3.2   | 想多模型切换、预算有限入门  | [9.5折订阅优惠](https://volcengine.com/L/cRsJmDWl7OQ/)      |
-| 智谱 GLM Lite（智谱 AI）  | Lite  ¥49（Pro ¥149 / Max ¥469）              | Lite 每周 400（1 prompt ≈ 15-20次调用）                       | GLM-5.1（对标 Claude Opus）、GLM-5-Turbo、GLM-4.7、GLM-4.5-Air                                      | GLM 专属需求、轻度使用      | [订阅](https://docs.bigmodel.cn/cn/coding-plan/overview)    |
-| MiniMax Starter           | ¥29（Plus ¥49 / Max ¥119 / 高速版另计）       | 600 请求 / Plus 1,500 / Max 4,500 / 每周上限=10×              | MiniMax M2.7（含高速推理版）                                                                        | 预算最紧、M2.7 模型需求     | [订阅](https://platform.minimaxi.com/docs/token-plan/intro) |
-| Kimi Andante（月之暗面）  | ¥49（Moderato ¥99 / Allegro ¥699）            | ~300–1,200 请求 / 每5小时1M tokens / 每周4M tokens            | Kimi K2.6（主力）                                                                                   | 长代码库、超长上下文任务    | [订阅](https://www.kimi.com/membership/pricing)             |
-| 小米 MiMo（小米）         | Lite ¥39 / Standard ¥99 / Pro ¥329 / Max ¥659 | Lite 6,000万 / Standard 2亿 / Pro 更高额度 / Max 16亿 Credits | Lite/Standard：MiMo 系列；Pro/Max：MiMo-V2-Pro/Omni/TTS、OpenCode、Claude Code 兼容、新模型优先体验 | 按需选择，入门到无限制      | [订阅](https://platform.xiaomimimo.com/token-plan)          |
-| 阿里百炼 Pro（阿里云）    | ¥200（Lite 已停售）                           | ~6,000 请求 / 每周45,000 / 每月90,000                         | Qwen3.6-Plus（含图片理解）、Kimi-K2.5、GLM-5、MiniMax-M2.5、Qwen3-Coder 系列、GLM-4.7               | Qwen 用户、大量请求重度使用 | [订阅](https://help.aliyun.com/zh/model-studio/coding-plan) |
+| 平台 / 套餐            | 月费                                                  | 主要支持模型                                                                                                                                                | 适合场景             | 订阅链接                                                      |
+| ------------------ | --------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------------------------------------------------- |
+| 火山引擎 Lite（字节跳动）    | Lite ¥40 / Pro ¥200）/现新用户首月¥9.9                     | Doubao-Seed-2.0-Code/Pro/Lite、Kimi-K2.6/K2.5、GLM-5.2、GLM-4.7、MiniMax-M3、DeepSeek-v4                                                                   | 想多模型切换、预算有限入门    | [9.5折订阅优惠](https://volcengine.com/L/cRsJmDWl7OQ/)         |
+| 智谱 GLM Lite（智谱 AI） | Lite  ¥49（Pro ¥149 / Max ¥469）                      | 所有套餐用户均支持 **GLM-5.2、**GLM-5-Turbo、GLM-4.7。                                                                                                            | GLM 专属编程需求       | [订阅](https://docs.bigmodel.cn/cn/coding-plan/overview)    |
+| MiniMax            | Plus ¥49 / Max ¥119 / 高速版另计）                        | MiniMax-M3                                                                                                                                            | 预算紧、M3模型需求       | [订阅](https://platform.minimaxi.com/docs/token-plan/intro) |
+| Kimi Andante（月之暗面） | Moderato ¥19 / Allegro ¥39                          | Kimi K2.7（主力）                                                                                                                                         | 长代码库、超长上下文任务     | [订阅](https://www.kimi.com/membership/pricing)             |
+| 小米 MiMo（小米）        | Pro ¥39 / Max ¥100 /Lite 首购优惠 ¥6  /Standard 首购优惠¥16 | 支持全新旗舰模型 mimo-v2.5-pro、全模态基座模型 mimo-v2.5、语音识别模型 mimo-v2.5-asr、语音合成模型 mimo-v2.5-tts-voiceclone、 mimo-v2.5-tts-voicedesign、mimo-v2.5-tts，及 V2 系列共 9 款模型 | 按需选择，入门到无限制      | [订阅](https://platform.xiaomimimo.com/token-plan)          |
+| 阿里百炼 Pro（阿里云）      | ¥200（Lite 已停售）                                      | Qwen3.6-Plus（含图片理解）、Kimi-K2.5、GLM-5、MiniMax-M2.5、Qwen3-Coder 系列、GLM-4.7                                                                               | Qwen 用户、大量请求重度使用 | [订阅](https://help.aliyun.com/zh/model-studio/coding-plan) |
