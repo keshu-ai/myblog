@@ -9,7 +9,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 #### 一、Obsidian安装和使用
 
 1. Obsidian官方下载地址(下载可能较慢) [https://obsidian.md/](https://obsidian.md/)
-2. Obsidian最新版下载加速 [飞书文档](https://my.feishu.cn/docx/AteGdACuxovTNYxnFSvcXpZLnrg?from=from_copylink)
+2. Obsidian最新版（下载加速） [飞书文档](https://my.feishu.cn/docx/AteGdACuxovTNYxnFSvcXpZLnrg?from=from_copylink)
 3. Obsidian中文参考文档 [https://obsidian.md/zh/help/](https://obsidian.md/zh/help/)
 4. Obsidian插件排行榜 [https://www.obsidianstats.com/](https://www.obsidianstats.com/)
 5. Obsidian社区论坛 [https://forum.obsidian.md/](https://forum.obsidian.md/)
@@ -63,6 +63,6 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 | 火山引擎 Lite（字节跳动）    | Lite ¥40 / Pro ¥200）/现新用户首月¥9.9                     | Doubao-Seed-2.0-Code/Pro/Lite、Kimi-K2.6/K2.5、GLM-5.2、GLM-4.7、MiniMax-M3、DeepSeek-v4                                                                   | 想多模型切换、预算有限入门    | [9.5折订阅优惠](https://volcengine.com/L/cRsJmDWl7OQ/)         |
 | 智谱 GLM Lite（智谱 AI） | Lite  ¥49（Pro ¥149 / Max ¥469）                      | 所有套餐用户均支持 **GLM-5.2、**GLM-5-Turbo、GLM-4.7。                                                                                                            | GLM 专属编程需求       | [订阅](https://docs.bigmodel.cn/cn/coding-plan/overview)    |
 | MiniMax            | Plus ¥49 / Max ¥119 / 高速版另计）                        | MiniMax-M3                                                                                                                                            | 预算紧、M3模型需求       | [订阅](https://platform.minimaxi.com/docs/token-plan/intro) |
-| Kimi Andante（月之暗面） | Moderato ¥19 / Allegro ¥39                          | Kimi K2.7（主力）                                                                                                                                         | 长代码库、超长上下文任务     | [订阅](https://www.kimi.com/membership/pricing)             |
+| Kimi Andante（月之暗面） | Moderato ¥19 / Allegro ¥39                          | Kimi K2.7                                                                                                                                             | 长代码库、超长上下文任务     | [订阅](https://www.kimi.com/membership/pricing)             |
 | 小米 MiMo（小米）        | Pro ¥39 / Max ¥100 /Lite 首购优惠 ¥6  /Standard 首购优惠¥16 | 支持全新旗舰模型 mimo-v2.5-pro、全模态基座模型 mimo-v2.5、语音识别模型 mimo-v2.5-asr、语音合成模型 mimo-v2.5-tts-voiceclone、 mimo-v2.5-tts-voicedesign、mimo-v2.5-tts，及 V2 系列共 9 款模型 | 按需选择，入门到无限制      | [订阅](https://platform.xiaomimimo.com/token-plan)          |
 | 阿里百炼 Pro（阿里云）      | ¥200（Lite 已停售）                                      | Qwen3.6-Plus（含图片理解）、Kimi-K2.5、GLM-5、MiniMax-M2.5、Qwen3-Coder 系列、GLM-4.7                                                                               | Qwen 用户、大量请求重度使用 | [订阅](https://help.aliyun.com/zh/model-studio/coding-plan) |
