@@ -8,14 +8,15 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 
 #### 一、Obsidian安装和使用
 
-1. Obsidian下载地址 [https://obsidian.md/](https://obsidian.md/)
-2. Obsidian中文参考文档 [https://obsidian.md/zh/help/](https://obsidian.md/zh/help/)
-3. Obsidian插件排行榜 [https://www.obsidianstats.com/](https://www.obsidianstats.com/)
-4. Obsidian社区论坛 [https://forum.obsidian.md/](https://forum.obsidian.md/)
-5. Obsidian Reddit社区 [https://www.reddit.com/r/Obsidian/](https://www.reddit.com/r/Obsidian/)
-6. Obsidian插件库 [https://obsidian.md/plugins](https://obsidian.md/plugins)
-7. Obsidian主题库 [https://obsidian.md/themes](https://obsidian.md/themes)
-8. Obsidian插件开发文档 [https://docs.obsidian.md/](https://docs.obsidian.md/)
+1. Obsidian官方下载地址(下载可能较慢) [https://obsidian.md/](https://obsidian.md/)
+2. Obsidian最新版下载加速 [飞书文档](https://my.feishu.cn/docx/AteGdACuxovTNYxnFSvcXpZLnrg?from=from_copylink)
+3. Obsidian中文参考文档 [https://obsidian.md/zh/help/](https://obsidian.md/zh/help/)
+4. Obsidian插件排行榜 [https://www.obsidianstats.com/](https://www.obsidianstats.com/)
+5. Obsidian社区论坛 [https://forum.obsidian.md/](https://forum.obsidian.md/)
+6. Obsidian Reddit社区 [https://www.reddit.com/r/Obsidian/](https://www.reddit.com/r/Obsidian/)
+7. Obsidian插件库 [https://obsidian.md/plugins](https://obsidian.md/plugins)
+8. Obsidian主题库 [https://obsidian.md/themes](https://obsidian.md/themes)
+9. Obsidian插件开发文档 [https://docs.obsidian.md/](https://docs.obsidian.md/)
 
 
 #### 二、Obsidian插件推荐
