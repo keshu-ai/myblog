@@ -19,14 +19,17 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 9. Obsidian插件开发文档 [https://docs.obsidian.md/](https://docs.obsidian.md/)
 
 
-#### 二、Obsidian插件推荐
+#### 二、Obsidian插件推荐（可在obsidian插件市场安装）
 
-1. obsidian-git [https://github.com/Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)
-2. claudian [https://github.com/YishenTu/claudian](https://github.com/YishenTu/claudian)
-3. copilot [https://github.com/logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
-4. pdf-plus [https://github.com/RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
-5. obsidian-terminal [https://github.com/polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal)
-
+| 序号  | 推荐指数  | github链接(使用参考)                                                                                                         | 说明               |
+| --- | ----- | ---------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 1   | ★★★★★ | Obsidian Web Clipper [https://obsidian.md/zh/help/web-clipper ](https://obsidian.md/zh/help/web-clipper)               | 网页剪辑             |
+| 2   | ★★★★★ | claudian [https://github.com/YishenTu/claudian](https://github.com/YishenTu/claudian)                                  | 接入AI如claude code |
+| 3   | ★★★★★ | obsidian-terminal [https://github.com/polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) | 接入AI terminial   |
+| 4   | ★★★★★ | copilot [https://github.com/logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)               | 接入多种AI           |
+| 5   | ★★★   | pdf-plus [https://github.com/RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)            | PDF阅读增强          |
+| 6   | ★★★   | obsidian-git [https://github.com/Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)                    | git同步            |
+| 7   | ★★★★★ | remotely-save[https://github.com/remotely-save/remotely-save](https://github.com/remotely-save/remotely-save)          | 多终端云盘同步          |
 
 #### 三、个人原创教程
 
