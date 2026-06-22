@@ -4,9 +4,8 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 
 #### 与我联系 Contact with me
 
-公众号、知乎、小红书：科叔AI进化记 
-
-知识库Github备份:https://github.com/keshu-ai/myblog
+- 公众号、知乎、小红书：科叔AI进化记 
+-  知识库Github备份:https://github.com/keshu-ai/myblog
 
 #### 一、Obsidian安装和使用
 
