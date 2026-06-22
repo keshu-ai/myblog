@@ -5,6 +5,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 #### 与我联系 Contact with me
 
 公众号、知乎、小红书：科叔AI进化记
+知识库Github备份:https://github.com/keshu-ai/myblog
 
 #### 一、Obsidian安装和使用
 
@@ -39,15 +40,16 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 #### 四、Claude Code 相关
 
 1. cc-switch GitHub [https://github.com/farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-2. Claude Code 官方文档 [https://docs.anthropic.com/zh-CN/docs/claude-code/overview](https://docs.anthropic.com/zh-CN/docs/claude-code/overview)
-3. Claude Code MCP 服务器 [https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
-4. Anthropic 官方 API 文档 [https://docs.anthropic.com/](https://docs.anthropic.com/)
-5. Anthropic Skills 官方 [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
-6. Claude Code Skill MCP [https://github.com/modelcontextprotocol/servers/tree/main/src/claude-code](https://github.com/modelcontextprotocol/servers/tree/main/src/claude-code)
-7. MCP 官方文档 [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/)
-8. MCP Servers 仓库 [https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
-9. Anthropic 官方 Skills [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
-10. Community Skills 仓库 [https://github.com/heidstra/awesome-claude-code-skills](https://github.com/heidstra/awesome-claude-code-skills)
+2. Claude Code安装中文教程 [https://claude-zh.cn/guide/getting-started](https://claude-zh.cn/guide/getting-started)
+3. Claude Code 官方文档 [https://docs.anthropic.com/zh-CN/docs/claude-code/overview](https://docs.anthropic.com/zh-CN/docs/claude-code/overview)
+4. Claude Code MCP 服务器 [https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+5. Anthropic 官方 API 文档 [https://docs.anthropic.com/](https://docs.anthropic.com/)
+6. Anthropic Skills 官方 [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
+7. Claude Code Skill MCP [https://github.com/modelcontextprotocol/servers/tree/main/src/claude-code](https://github.com/modelcontextprotocol/servers/tree/main/src/claude-code)
+8. MCP 官方文档 [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/)
+9. MCP Servers 仓库 [https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+10. Anthropic 官方 Skills [https://github.com/anthropics/skills](https://github.com/anthropics/skills)
+11. Community Skills 仓库 [https://github.com/heidstra/awesome-claude-code-skills](https://github.com/heidstra/awesome-claude-code-skills)
 
 #### 五、Codex相关
 1. 官方文档：https://developers.openai.com/codex
