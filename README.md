@@ -5,7 +5,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 #### 与我联系 Contact with me
 
 - 公众号、知乎、小红书：科叔AI进化记 
-- [Gitee](https://gitee.com/keshu-ai/myblog)[Github](https://github.com/keshu-ai/myblog)
+- [Gitee](https://gitee.com/keshu-ai/myblog)   [Github](https://github.com/keshu-ai/myblog)
 #### 一、个人原创教程
 
 1.  [Obsidian+AI打造人生管理系统](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzODkwODYwMA==&action=getalbum&album_id=4355166178646786051#wechat_redirect)
@@ -17,8 +17,8 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 -  [阿里AI通识课-人工智能通识基础](https://edu.aliyun.com/course/3130007/?spm=a2cwt.28120015.3125406.20.69ce26ccS6fQ0S)
 
 2. AI体系考证（学习免费、认证收费）
-- [阿里云人工智能工程师ACA认证 - 认证中心 - 阿里云](https://edu.aliyun.com/certification/aca05?spm=a2c4g.11186623.0.0.5c076c99Fsi8x0)
-- [人工智能_AI_课程_实验_学习路径_云学堂_华为云开发者学堂-华为云](https://edu.huaweicloud.com/ai-theme.html)
+- [阿里云人工智能工程师ACA认证](https://edu.aliyun.com/certification/aca05?spm=a2c4g.11186623.0.0.5c076c99Fsi8x0)
+- [华为云AI课程](https://edu.huaweicloud.com/ai-theme.html)
 
 #### 三、Obsidian安装和使用
 
