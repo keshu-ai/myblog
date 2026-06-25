@@ -32,7 +32,7 @@ Obsidian、AI工作流、AI编程、AI+行业应用案例分享
 8. Obsidian插件库 [https://obsidian.md/plugins](https://obsidian.md/plugins)
 9. Obsidian主题库 [https://obsidian.md/themes](https://obsidian.md/themes)
 10. Obsidian插件开发文档 [https://docs.obsidian.md/](https://docs.obsidian.md/)
-
+11. Markdown语法教程[https://markdown.com.cn/basic-syntax/index.html](https://markdown.com.cn/basic-syntax/index.html)
 
 #### 四、Obsidian插件推荐（可在obsidian插件市场安装）
 
